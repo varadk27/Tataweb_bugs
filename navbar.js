@@ -9,18 +9,6 @@ function navbar() {
             <div>
                 <h4>LAB TESTS</h4>
             </div>
-            <div>
-                <h4>CONSULT DOCTORS</h4>
-            </div>
-            <div>
-                <h4>COVID-19</h4>
-            </div>
-            <div>
-                <h4>AYURVEDA</h4>
-            </div>
-            <div>
-                <h4>CARE PLAN</h4>
-            </div>
         </div>
         
 
