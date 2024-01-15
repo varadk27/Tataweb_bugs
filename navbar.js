@@ -6,9 +6,6 @@ function navbar() {
             <div>
                 <h4>MEDICINES</h4>
             </div>
-            <div>
-                <h4>LAB TESTS</h4>
-            </div>
         </div>
         
 
