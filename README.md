@@ -10,3 +10,5 @@ Below buttons are not bugs:
 1)All buttons in footer
 2)In Nav bar: "Offers" and "Need help?" buttons
 3)Quick order button.
+
+There are no bugs in footer
